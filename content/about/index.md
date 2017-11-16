@@ -7,7 +7,7 @@ Are you tired of spending countless hours debating the finer points of [Semantic
 
 Is your date based versioning schema too complicated because it gives users nearly no context as to what may have changed in your software?
 
-Do you wish that somehow you could version not only your software, but your entire application stack, web addresses or even chat rooms? Well, look no further and enter, -new versionig (pronounced dash-new-ver).
+Do you wish that somehow you could version not only your software, but your entire application stack, web addresses or even chat rooms? Well, look no further and enter, -new versioning (pronounced dash-new-ver).
 
 ### How it works
 
