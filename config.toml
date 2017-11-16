@@ -1,4 +1,5 @@
-baseURL = "https://stahnma.github.io/dashnewver.org/"
+baseURL = "https://stahnma.github.io/dashnewver.org"
+#baseURL = "/"
 languageCode = "en-us"
 title = "dashnewver.org"
 theme = "landingpage"
