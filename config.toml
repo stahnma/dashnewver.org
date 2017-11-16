@@ -1,0 +1,6 @@
+baseURL = "https://stahnma.github.io/dashnewver.org/"
+languageCode = "en-us"
+title = "dashnewver.org"
+theme = "landingpage"
+description = "Versioning with simplicity."
+publishDir = "docs"
